@@ -1,10 +1,4 @@
 
-### Observação
-
-Este repositório contem o  **Projeto API Order TrybeSmith**  que reúne o aprendizado desenvolvido por:
- _[Alex Silva](https://www.linkedin.com/in/alexcssilva/)_  
- Enquanto estudante da  [Trybe](https://www.betrybe.com/)  ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)  **GitHub  [Trybe](https://github.com/tryber)**.
-
 # Projeto Trybers and Dragons
 
 Apresentação do Projeto
@@ -21,6 +15,16 @@ O Projeto Trybers and Dragons pôe em prática os pilares do POO(Programação O
 
 -   TypeScript;
 -   Eslint;
+
+----------
+
+### Observação
+
+Este repositório contem o  **Projeto API Order TrybeSmith**  que reúne o aprendizado, enquanto estudante da  [Trybe](https://www.betrybe.com/)  desenvolvido por:
+
+ **Linkedin  [Alex Silva](https://www.linkedin.com/in/alexcssilva/)**
+ 
+   **GitHub  [Trybe](https://github.com/tryber)**.
 
 ----------
 
